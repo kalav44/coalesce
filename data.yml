@@ -8,6 +8,13 @@ jobs:
     name: New Job
     steps: []
     subgraphs: []
+  Job-4:
+    excludeSelector: ""
+    id: 4
+    includeSelector: ""
+    name: New Job for hot fix
+    steps: []
+    subgraphs: []
 locations:
   MCAMAINBRANCH:
     mappingDefinitions:
